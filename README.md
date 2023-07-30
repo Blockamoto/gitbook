@@ -1,35 +1,28 @@
 ---
-description: The official gitbook for bitmap core.
+description: A universal co-ordinate mapping framework based upon ordinals theory.
 ---
 
-# 📙 bitmap: bitbook
+# ❔ ruleset 3
 
-{% hint style="info" %}
-DISCLAIMER: PLEASE ENGAGE WITH BITMAP AT YOUR OWN RISK! WE ARE EARLY.&#x20;
+{% hint style="warning" %}
+AIM: a universal co-ordinates system for Bitmap.
 {% endhint %}
 
-Welcome to Bitmap, a transmutational metaverse standard tapping into the Bitcoin Blockchain. Leveraging the Ordinals theory and Bitmap theory, Bitmap offers a groundbreaking way to ascribe claims unto consensual geospatial canvas points across the Bitcoin timechain tapestry. It's a new frontier in the world of decentralized digital ownership and a new understanding of Metaverse.
+Ruleset 3 is a proposed addition to [the-bitmap-standard](areas/the-bitmap-standard/ "mention") being written by Bitoshi Blockamoto.
 
-<figure><img src=".gitbook/assets/Bitoshi.png" alt="" width="375"><figcaption><p>"Some inventions are more like discovery's" - <em>Bitoshi Blockamoto</em></p></figcaption></figure>
+But he needs your help!
 
-This bitbook is split into FOUR sections
+This proposed ruleset should serve to open up the possible cross-platform use-cases for bitmap.
 
-[Broken link](broken-reference "mention"): active projects from Bitmap Core and community
+The standard enables object permanence across bitmap platforms that interface with ruleset 3.
 
-[Broken link](broken-reference "mention"): ongoing responsibilities of Bitmap Core
+There are four main reference points.
 
-[Broken link](broken-reference "mention"): useful tools from Bitmap Core and the Community
+**Blocks:** these are referenced by district blockheight number in `404.bitmap`
 
-[Broken link](broken-reference "mention"): inactive document public archive, including OLD and DRAFTS
+**Transactions:** these are referenced by transaction number dot blockheight in `0.404.bitmap`
 
-## What is Bitmap?
+**Inputs/outputs:** indexing each input and output wallet referenced within the transaction
 
-Bitmap is an open-source standard that allows anyone to ascribe ownership of a Bitcoin Block by inscribing it onto a Satoshi using Ordinals and the Bitmap standard. This process is equitable and decentralized, turning any Bitcoin block into a part of the Metaverse at the cost of energy.
+**Satoshi's:** using ordinals theory we can specifically pinpoint universal co-oridnates using satoshi's
 
-## How Does Bitmap Work?
-
-With Bitmap, any block on the Bitcoin blockchain can be inscribed as districts, making it an integral part of the Metaverse. Platforms can parse this Block Data into the 3D realm and grant build access to block owners, creating a new paradigm for open-source development. Parcels representing transactions within these district blocks can be made independent from its block by the owner of the district.
-
-
-
-**NEXT:** [bitmap.land](areas/bitmap.land/ "mention")

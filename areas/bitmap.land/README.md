@@ -12,13 +12,15 @@ Bitoshi Blockamoto and Bitmapdev invite you to the Blockchain world we envisage 
 {% tab title="Signature" %}
 The Core Map is the signature map based on [the-bitmap-standard](../the-bitmap-standard/ "mention") by Bitoshi Blockamoto, developed by [@bitmapdev](https://twitter.com/bitmapdev) based upon the blueprint and specs by [@blockamoto](https://twitter.com/blockamoto).&#x20;
 
-We extrapolate [#the-map](./#the-map "mention") from Bitcoin using [the-index.md](../the-index.md "mention") of [the-bitmap-standard](../the-bitmap-standard/ "mention").
+<figure><img src="../../.gitbook/assets/bitmapland.png" alt=""><figcaption><p>We extrapolate <a data-mention href="./#the-map">#the-map</a> from Bitcoin using <a data-mention href="../the-bitmap-index.md">the-bitmap-index.md</a> of <a data-mention href="../the-bitmap-standard/">the-bitmap-standard</a>.</p></figcaption></figure>
 
 This ongoing developing project is our way to express the standard at its core.
 
 The platform is built to be extendible through the implementation of Bapps (Bitmap Apps).
 
 Index powered by [Trac](https://trac.network/), an decentralized ordinals and bitmap core indexer.
+
+**NEXT:** [#the-map-design](./#the-map-design "mention")
 {% endtab %}
 
 {% tab title="The Map Design" %}
@@ -35,17 +37,16 @@ Each square is a [district.md](../../resources/glossary/district.md "mention"). 
 Once loaded, Orange squares represents verified districts which have been claimed.
 
 If you are lucky enough to spot a grey block, it means this bitmap has not yet been claimed.
+
+**NEXT:** [#navigating-the-map](./#navigating-the-map "mention")
 {% endtab %}
 
 {% tab title="Navigating the Map" %}
-* Pan : click & drag
-* Zoom : scroll in or out
-* Search Block
-* Change view: horizontal/vertical
-* Select Districts/Parcels
-* Parcel view
-* Inscribe parcels with the Looks Ordinal Bitmap Core Inscriber
+🤚 Pan : click & drag | :telescope: Zoom : scroll in or out | :mag\_right: Search District | Inscribe districts
+
+:window: Change view: horizontal/vertical | :point\_up\_2: Click Districts | :orange\_square: Parcel view | :pen\_fountain: Inscribe parcels
+
+**NEXT:** [the-bitmap-standard](../the-bitmap-standard/ "mention")
 {% endtab %}
 {% endtabs %}
 
-**NEXT:** [the-bitmap-standard](../the-bitmap-standard/ "mention")

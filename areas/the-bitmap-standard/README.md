@@ -18,8 +18,8 @@ The Bitmap Standard is a set of foundational rules based on Bitmap Theory by Bit
 
 ## RULESET PROJECTS
 
-? - [ruleset-3.md](../../project/ruleset-3.md "mention"): A universal co-ordinate mapping framework based upon ordinals theory.
+? - [..](../../ "mention"): A universal co-ordinate mapping framework based upon ordinals theory.
 
 
 
-**NEXT:** [the-index.md](../the-index.md "mention")
+**NEXT:** [the-bitmap-index.md](../the-bitmap-index.md "mention")
