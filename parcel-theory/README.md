@@ -1,0 +1,3 @@
+# 🏡 parcel theory
+
+The meta land representation of a transaction within a bitcoin block. A bitmap parcel is the token, such as 0.404.bitmap, that represents transaction 0 of block 404. Parcels exist within Districts in the same way transactions exist within a Bitcoin Block. It is a parent-child relationship. By default, the parcels are part of the district. To detach a parcel from its parent district, it is possible for district owners of a district to [Broken link](broken-reference "mention") by using [world-map](../world-map/ "mention"), or by following the [parcel-ruleset.md](parcel-ruleset.md "mention").
