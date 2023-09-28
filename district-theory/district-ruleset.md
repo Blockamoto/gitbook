@@ -50,8 +50,8 @@ The district being claimed must be equal to, or lower than the blockheight of th
 
 <details>
 
-<summary><code>first is first = lowest inscription number of valid claims</code></summary>
+<summary><code>first is first = first valid inscription transaction on block</code></summary>
 
-The inscription must have the lowest inscription number of all other valid claims, ensuring the owner of the district is the one who inscribed first, according to the full ruleset, successfully.
+If there are multiple bitmap district claims within the same block, the winner is first valid inscription transaction.
 
 </details>
