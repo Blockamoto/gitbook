@@ -4,7 +4,7 @@ description: >-
   the core rules of the theory that all other
 ---
 
-# 👨🏫 bitmap theory
+# 👨🏫 theory ruleset
 
 {% hint style="info" %}
 Click to expand for an explanation of each rule.

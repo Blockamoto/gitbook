@@ -10,7 +10,7 @@ description: The signature project leveraging Bitmap, by Blockamoto and Bitmapde
 {% tab title="Signature" %}
 The Core Map is the signature map by [@blockamoto](https://twitter.com/blockamoto) and [@bitmapdev](https://twitter.com/bitmapdev).
 
-<figure><img src="../../.gitbook/assets/bitmapland.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bitmapland.png" alt=""><figcaption></figcaption></figure>
 
 This ongoing developing project is our way to express the standard at its core.
 
@@ -30,7 +30,7 @@ You click, drag, scroll, switch, and search to navigate deeper to discover this 
 
 Zooming in, you notice difficulty adjustment periods are represented every 2016 districts.
 
-Each square is a [district-theory.md](../../theory/district-theory.md "mention"). The number on the square represents the districts blockheight.
+Each square is a [district-theory](../district-theory/ "mention"). The number on the square represents the districts blockheight.
 
 Once loaded, Orange squares represents verified districts which have been claimed.
 

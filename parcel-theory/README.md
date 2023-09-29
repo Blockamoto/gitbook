@@ -18,4 +18,4 @@ Furthermore, Parcels can be inscribed by the District owners which effectively d
 
 This process, known as Parcelling, is achieved by inscribing the parcel-number (in transaction order upon block, starting from 0) followed by the _blockheight_ number, followed by `.bitmap`. To prevent the potential of front-running, users MUST confirm the parcel by _tapping_ the district. Tapping simply means to send the district to yourself to confirm.
 
-Parcel inscriptions must follow the [parcel-ruleset.md](../ruleset/parcel-ruleset.md "mention") to recognized within parcel theory.
+Parcel inscriptions must follow the [parcel-ruleset.md](parcel-ruleset.md "mention") to recognized within parcel theory.

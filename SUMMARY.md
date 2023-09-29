@@ -3,14 +3,14 @@
 ## 📚 Theory
 
 * [🗺 bitmap theory 101](README.md)
-* [🌆 district theory](theory/district-theory.md)
-* [🏡 parcel theory](theory/parcel-theory.md)
+* [🌆 district theory](district-theory/README.md)
+* [🏡 parcel theory](parcel-theory/README.md)
 
 ## 📜 RULESET
 
-* [👨🏫 theory ruleset](ruleset/theory-ruleset.md)
-* [📃 district ruleset](ruleset/district-ruleset.md)
-* [🗞 parcel ruleset](ruleset/parcel-ruleset.md)
+* [👨🏫 theory ruleset](bitmap-theory-101/theory-ruleset.md)
+* [📃 district ruleset](district-theory/district-ruleset.md)
+* [🗞 parcel ruleset](parcel-theory/parcel-ruleset.md)
 
 ## 📑 INDEX
 
@@ -18,7 +18,7 @@
 
 ## 🍄 PLATFORMS
 
-* [🟧 bitmap.land](platforms/world-map/README.md)
+* [🟧 bitmap.land](world-map/README.md)
   * [🔗 bitmap.land](https://bitmap.land)
   * [📺 inscribe parcel](platforms/world-map/inscribe-parcel.md)
 * [📔 bitmap.directory](http://bitmap.directory)
