@@ -34,7 +34,3 @@ At Bitmap, our vision extends beyond the present. The proceeds from initial bloc
 ### Join the Revolution
 
 We invite you to join us in this exciting journey towards building a truly open Metaverse. Whether you're a builder, a visionary, or simply a Bitcoin enthusiast, there's a place for you in the Bitmap community. Get involved today and help shape the future of the Bitcoin Metaverse.
-
-
-
-END
