@@ -2,19 +2,15 @@
 description: The signature project leveraging Bitmap, by Blockamoto and Bitmapdev.
 ---
 
-# 🟧 world map
-
-Bitoshi Blockamoto and Bitmapdev invite you to the Blockchain world we envisage built on Bitcoin. The bitmap.land platform aims to serve the community the crème de la crème of bitmap.
-
-
+# 🟧 bitmap.land
 
 ## The Design
 
 {% tabs %}
 {% tab title="Signature" %}
-The Core Map is the signature map based on [Broken link](broken-reference "mention") by Bitoshi Blockamoto, developed by [@bitmapdev](https://twitter.com/bitmapdev) based upon the blueprint and specs by [@blockamoto](https://twitter.com/blockamoto).&#x20;
+The Core Map is the signature map by [@blockamoto](https://twitter.com/blockamoto) and [@bitmapdev](https://twitter.com/bitmapdev).
 
-<figure><img src="../.gitbook/assets/bitmapland.png" alt=""><figcaption><p>We extrapolate <a data-mention href="./#the-map">#the-map</a> from Bitcoin using <a data-mention href="broken-reference">Broken link</a> of <a data-mention href="broken-reference">Broken link</a>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bitmapland.png" alt=""><figcaption></figcaption></figure>
 
 This ongoing developing project is our way to express the standard at its core.
 
@@ -34,7 +30,7 @@ You click, drag, scroll, switch, and search to navigate deeper to discover this 
 
 Zooming in, you notice difficulty adjustment periods are represented every 2016 districts.
 
-Each square is a [district-theory](../district-theory/ "mention"). The number on the square represents the districts blockheight.
+Each square is a [district-theory.md](../../theory/district-theory.md "mention"). The number on the square represents the districts blockheight.
 
 Once loaded, Orange squares represents verified districts which have been claimed.
 

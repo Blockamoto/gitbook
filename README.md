@@ -5,15 +5,15 @@ description: >-
 layout: landing
 ---
 
-# 🗺 BITMAP THEORY 101
+# 🗺 bitmap theory 101
 
-Welcome to Bitmap, a transformative metaverse standard built on the Bitcoin blockchain. Leveraging the Ordinals theory and Bitmap theory, Bitmap offers a groundbreaking way to claim ownership of Bitcoin Blocks. It's a new frontier in the world of decentralized digital ownership and the Metaverse.
+Welcome to Bitmap, a transmutational metaverse standard tapping into the Bitcoin Blockchain. Leveraging the Ordinals theory and Bitmap theory, Bitmap offers a groundbreaking way to ascribe claims unto consensual geospatial canvas real estate across a timechain tapestry known as Bitcoin. It's a new frontier in the world of decentralized digital ownership and a new understanding of Metaverse.
 
-<figure><img src="../../../.gitbook/assets/Bitoshi.png" alt="" width="375"><figcaption><p>"Some inventions are more like discovery's" - <em>Bitoshi Blockamoto</em></p></figcaption></figure>
+<figure><img src=".gitbook/assets/Bitoshi.png" alt="" width="375"><figcaption><p>"Some inventions are more like discovery's" - <em>Bitoshi Blockamoto</em></p></figcaption></figure>
 
 ### What is Bitmap?
 
-Bitmap is an open-source standard that allows anyone to ascribe ownership of a Bitcoin Block by inscribing it onto a Satoshi using Ordinals and the Bitmap standard. This process is equitable and decentralized, turning any Bitcoin block into a part of the Metaverse at the cost of energy.
+Bitmap is a consensus standard that allows anybody to claim the geospatial digital real estate of a Bitcoin Block. This process is achieved by being the first to inscribe _`blocknumber`_`.bitmap` unto a Satoshi using the Ordinals Inscription standard. This process is equitable and decentralized, transmuting any Bitcoin Block into a part of the Metaverse at the cost of energy. Bitmap was fully inscribed up to the latest block in Summer 2023, but since the Bitcoin Blockchain produces a block roughly every ten minutes, this means there are roughly 144 new Bitmaps (\~10 mins) available to claim each day, however you must
 
 ### How Does Bitmap Work?
 

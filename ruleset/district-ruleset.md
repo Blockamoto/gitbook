@@ -28,7 +28,7 @@ To make a claim on a block, a text inscription must be made using Ordinals Theor
 
 <summary><code>404.bitmap = example command to claim district at blockheight:404</code></summary>
 
-This example demonstrates how you would claim district 404, based upon blockheight 404.
+This example inscription command demonstrates how you would claim district 404, based upon _blockheight_ 404. Be aware, a claim must be successful (see _first is first_).
 
 </details>
 
