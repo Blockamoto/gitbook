@@ -1,8 +1,10 @@
 # Table of contents
 
+* [🗺 bitmap 101](README.md)
+
 ## 📚 Theory
 
-* [🗺 bitmap theory 101](README.md)
+* [📃 bitmap theory whitepaper](theory/bitmap-theory-whitepaper.md)
 * [🌆 district theory](district-theory/README.md)
 * [🏡 parcel theory](parcel-theory/README.md)
 
