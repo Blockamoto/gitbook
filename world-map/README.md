@@ -30,7 +30,7 @@ You click, drag, scroll, switch, and search to navigate deeper to discover this 
 
 Zooming in, you notice difficulty adjustment periods are represented every 2016 districts.
 
-Each square is a [district-theory](../district-theory/ "mention"). The number on the square represents the districts blockheight.
+Each square is a [district-theory.md](../theory/\_old/district-theory.md "mention"). The number on the square represents the districts blockheight.
 
 Once loaded, Orange squares represents verified districts which have been claimed.
 
