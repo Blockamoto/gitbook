@@ -28,24 +28,31 @@ Click through the links in **CONTENTS** to browse the Bitmap Theory living **whi
 [introduction.md](introduction.md)
 {% endcontent-ref %}
 
+{% content-ref url="background.md" %}
+[background.md](background.md)
+{% endcontent-ref %}
+
+
+
 {% hint style="success" %}
-Come back on **Tuesday** for the release of the whitepaper **Background** section!
+Come back on **Soon** for the release of the whitepaper **TRIP Methodology** section!
 {% endhint %}
 
 ## WHITEPAPER STATUS
 
-**Progress:** ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20%
+**Progress:** ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 33.33%
 
-| Section                                      | Status                                                                                                                           |
-| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [abstract.md](abstract.md "mention")         | _<mark style="color:yellow;">v0.11 UPDATED</mark>_                                                                               |
-| [introduction.md](introduction.md "mention") | <mark style="color:green;">v0.1 RELEASED</mark>                                                                                  |
-| Background                                   | _<mark style="color:orange;">Come back</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Tuesday**</mark>_ |
-| Theory                                       | _<mark style="color:orange;">Come back later</mark>_                                                                             |
-| Ruleset                                      | _<mark style="color:orange;">Come back later</mark>_                                                                             |
-| Index                                        | _<mark style="color:orange;">Come back later</mark>_                                                                             |
-| Product                                      | _<mark style="color:orange;">Come back later</mark>_                                                                             |
-| Conclusion                                   | _<mark style="color:orange;">Come back later</mark>_                                                                             |
+| Section                                      | Status                                               |
+| -------------------------------------------- | ---------------------------------------------------- |
+| [abstract.md](abstract.md "mention")         | _<mark style="color:yellow;">v0.11 UPDATED</mark>_   |
+| [introduction.md](introduction.md "mention") | <mark style="color:green;">v0.1 RELEASED</mark>      |
+| [background.md](background.md "mention")     | <mark style="color:green;">v0.1 RELEASED</mark>      |
+| TRIP Methodology                             | _<mark style="color:orange;">Come back soon</mark>_  |
+| Theory                                       | _<mark style="color:orange;">Come back later</mark>_ |
+| Ruleset                                      | _<mark style="color:orange;">Come back later</mark>_ |
+| Index                                        | _<mark style="color:orange;">Come back later</mark>_ |
+| Product                                      | _<mark style="color:orange;">Come back later</mark>_ |
+| Conclusion                                   | _<mark style="color:orange;">Come back later</mark>_ |
 
 ***
 
