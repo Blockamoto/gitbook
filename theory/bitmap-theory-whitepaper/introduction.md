@@ -23,7 +23,7 @@ This is the end of the **Introduction**. Come back on Tuesday for the **Backgrou
 ***
 
 {% hint style="success" %}
-## READERS ALPHA! COMING THIS WEEK...
+## READERS ALPHA: SIR WHITEPAPER NOW AVAILABLE.
 
 To celebrate the calm and orderly rollout of Bitmap Theory, the living whitepaper, we fused some things together and gave birth to an actual **living whitepaper**! Made using the brc420 standard. Now you can finally live your dreams and step into the body of white paper.
 
@@ -31,6 +31,6 @@ To celebrate the calm and orderly rollout of Bitmap Theory, the living whitepape
 
 ### STAY TUNED
 
-_He's not quite ready, but check back here regularly, or follow_ [_@blockamoto_](https://twitter.com/blockamoto) _on X for updates. Created by_ [_@6elatin_](https://twitter.com/6elatin)_._
+&#x20;_Created by_ [_@6elatin_](https://twitter.com/6elatin)_._
 {% endhint %}
 
