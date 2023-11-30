@@ -8,6 +8,7 @@
   * [📄 Abstract](theory/bitmap-theory-whitepaper/abstract.md)
   * [📄 Introduction](theory/bitmap-theory-whitepaper/introduction.md)
   * [📄 Background](theory/bitmap-theory-whitepaper/background.md)
+  * [📄 TRIP Methodology](theory/bitmap-theory-whitepaper/trip-methodology.md)
 * [\_old](theory/\_old/README.md)
   * [🌆 district theory](theory/\_old/district-theory.md)
   * [🏡 parcel theory](theory/\_old/parcel-theory.md)
