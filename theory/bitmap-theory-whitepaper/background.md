@@ -154,9 +154,13 @@ Ord.io is how ordinals are browsed and filtered by type. They have full recursio
 
 Ordinals Theory opens up Bitcoin as a vast geospatial canvas in which Satoshi's (the smallest unit of Bitcoin) are represented by co-ordinates indexed ordinally. According to this theory, any data within the byte limit potential of transactions can be inscribed upon the UTXO and indexed against a Satoshi. This relationship between the Satoshi and the Inscription is subsequently maintained and can be tracked as part of the UTXO data by anybody who applies Ordinals Theory to Bitcoin ongoing into the future. However, emphasis must be placed on proper reproduceable indexing.
 
+{% hint style="success" %}
+This is the end of the **Background**. Read the [trip-methodology.md](trip-methodology.md "mention")section next.
+{% endhint %}
+
 ***
 
-{% hint style="success" %}
+{% hint style="warning" %}
 ## READERS ALPHA: AVAILABLE SOON.
 
 To celebrate the calm and orderly rollout of Bitmap Theory, the living whitepaper, we fused some things together and gave birth to an actual **living whitepaper**! Made using the brc420 standard. Now you can finally live your dreams and step into the body of white paper.

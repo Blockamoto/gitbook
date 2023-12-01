@@ -48,9 +48,13 @@ Bitmap is designed to allow for different visions for the Metaverse to emerge wi
 
 It largely refers to Bitmap platforms that serve Bitcoin data parsed via Bitmap theory rulesets, but also the inscriptions which are product of the standard.
 
+{% hint style="success" %}
+This is the end of the **TRIP Methodology**. Read the [Broken link](broken-reference "mention") section next.
+{% endhint %}
+
 ***
 
-{% hint style="success" %}
+{% hint style="warning" %}
 ## READERS ALPHA: AVAILABLE SOON.
 
 To celebrate the calm and orderly rollout of Bitmap Theory, the living whitepaper, we fused some things together and gave birth to an actual **living whitepaper**! Made using the brc420 standard. Now you can finally live your dreams and step into the body of white paper.
