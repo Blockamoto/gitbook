@@ -121,14 +121,30 @@ Theory. A Bitmap neighbourhood is a group of 2016 districts. This follows the di
 
 ### Section
 
-Theory. A Bitmap Section is a group of 210000 Districts. This follows the coinbase reward halving periods. Since indexing of Districts starts at zero, the first tribe ranges 0-209999, and the next tribe 210000-419999, and so on. At the time of writing there are FOUR sections. Roughly every FOUR years a new SECTION begins. This ensures the continuous predictable expansion of the Bitmap universe.
+Theory. A Bitmap Section is a group of 210000 Districts. This follows the coinbase reward halving periods. Since indexing of Districts starts at zero, the #first tribe ranges 0-209999, and the next tribe 210000-419999, and so on. At the time of writing there are FOUR sections. Roughly every FOUR years a new SECTION begins. This ensures the continuous predictable expansion of the Bitmap universe.
 
-## _Bitmap: write (preview)_
+### Blockstep
 
-> _<mark style="color:green;">For people to be able to truly build upon their Bitmap, and for their work to inherit the properties of Bitcoin, it must be written to Bitcoin. This section of Theory is not quite yet finished, but will introduce Terraforming, Building, Commands, Pins, Signals, and Entities. These elements will bring utility to the access point described above in the "read" section.</mark>_
+Each block that is mined on Bitcoin is a step in Bitcoin time.  The actual time between each block is not consistent due to the nature of block mining, so time dilation, the time between blocks, is measured.
+
+## Bitmap: write
+
+### Claiming
+
+All Bitmaps start their life as Bitcoin Blocks. Claiming is the act of transmuting a Bitcoin Block into a Bitmap District. This is called a **District Claim** can only be done once per block. This ensures that there may only ever be one owner of a District at any point in time. These Districts can be fractionalized down to their natural components. The next layer down from Districts is the Parcels. The layer underneath Parcels is Chunks and Caves. These fundamental substrates of Bitmap make up the hierarchical denominations of Bitmap available.
+
+#### District Claim
+
+To claim a bitmap starts at the District level. At this point in time, all Districts are claimed up to the latest Bitcoin Block, and a new District becomes available every time a new Bitcoin Block is mined. To claim a District means to be the first person to inscribe an ordinal with the claim schema as per Ruleset. As all Districts were inscribed within the first month in an event that has come to be known as the Blockout, since this point in time there has been competition for each District that becomes available, and advanced techniques are becoming increasingly utilized which increases the difficulty to obtain new Districts. This is why it is important Districts can be fractionalized, and the smaller pieces of Bitmap can be distributed, allowing Bitcoin's block space and scale set the bounds for Bitmap.
+
+#### Parcel Claim
+
+Parcels are part and parcel of the District by default from the moment the District is inscribed. Inscribing a Parcel can only be done by the valid District owner from which the Parcel derives, and doing so relinquishes control of this part of the map to the owner of the Parcel rather than the District.
+
+
 
 {% hint style="success" %}
-This is the end of the _**Theory: read**_ section. Come back soon for _**Theory: write**_.
+This **Theory** section is still being written. Come back often for updates as its written!
 {% endhint %}
 
 ***

@@ -46,17 +46,17 @@ Come back on **Soon** for the release of the whitepaper **TRIP Methodology** sec
 
 **Progress:** ⬛⬛⬛⬛⬜⬜⬜⬜⬜ 44.44%
 
-| Section                                              | Status                                                                                                                        |
-| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [abstract.md](abstract.md "mention")                 | _<mark style="color:yellow;">v0.11 UPDATED</mark>_                                                                            |
-| [introduction.md](introduction.md "mention")         | <mark style="color:green;">v0.1 RELEASED</mark>                                                                               |
-| [background.md](background.md "mention")             | <mark style="color:green;">v0.1 RELEASED</mark>                                                                               |
-| [trip-methodology.md](trip-methodology.md "mention") | <mark style="color:green;">v0.1 RELEASED</mark>                                                                               |
-| Theory                                               | _<mark style="color:orange;">Come back</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**soon**</mark>_ |
-| Ruleset                                              | _<mark style="color:orange;">Come back later</mark>_                                                                          |
-| Index                                                | _<mark style="color:orange;">Come back later</mark>_                                                                          |
-| Product                                              | _<mark style="color:orange;">Come back later</mark>_                                                                          |
-| Conclusion                                           | _<mark style="color:orange;">Come back later</mark>_                                                                          |
+| Section                                              | Status                                               |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| [abstract.md](abstract.md "mention")                 | <mark style="color:green;">v0.11 UPDATED</mark>      |
+| [introduction.md](introduction.md "mention")         | <mark style="color:green;">v0.1 RELEASED</mark>      |
+| [background.md](background.md "mention")             | <mark style="color:green;">v0.1 RELEASED</mark>      |
+| [trip-methodology.md](trip-methodology.md "mention") | <mark style="color:green;">v0.1 RELEASED</mark>      |
+| [Broken link](broken-reference "mention")            | <mark style="color:yellow;">v0.1 IN PROGRESS</mark>  |
+| Ruleset                                              | _<mark style="color:orange;">Come back later</mark>_ |
+| Index                                                | _<mark style="color:orange;">Come back later</mark>_ |
+| Product                                              | _<mark style="color:orange;">Come back later</mark>_ |
+| Conclusion                                           | _<mark style="color:orange;">Come back later</mark>_ |
 
 ***
 
