@@ -36,30 +36,32 @@ Click through the links in **CONTENTS** to browse the Bitmap Theory living **whi
 [trip-methodology.md](trip-methodology.md)
 {% endcontent-ref %}
 
+{% content-ref url="theory.md" %}
+[theory.md](theory.md)
+{% endcontent-ref %}
 
-
-{% hint style="success" %}
-Come back on **Soon** for the release of the whitepaper **TRIP Methodology** section!
+{% hint style="info" %}
+This Whitepaper is currently in the process of being written. Come back often for updates!
 {% endhint %}
 
 ## WHITEPAPER STATUS
 
-**Progress:** ⬛⬛⬛⬛⬜⬜⬜⬜⬜ 44.44%
+**Progress:** ⬛⬛⬛⬛⬛⬜⬜⬜⬜ 55.55%
 
-| Section                                              | Status                                               |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| [abstract.md](abstract.md "mention")                 | <mark style="color:green;">v0.11 UPDATED</mark>      |
-| [introduction.md](introduction.md "mention")         | <mark style="color:green;">v0.1 RELEASED</mark>      |
-| [background.md](background.md "mention")             | <mark style="color:green;">v0.1 RELEASED</mark>      |
-| [trip-methodology.md](trip-methodology.md "mention") | <mark style="color:green;">v0.1 RELEASED</mark>      |
-| [Broken link](broken-reference "mention")            | <mark style="color:yellow;">v0.1 IN PROGRESS</mark>  |
-| Ruleset                                              | _<mark style="color:orange;">Come back later</mark>_ |
-| Index                                                | _<mark style="color:orange;">Come back later</mark>_ |
-| Product                                              | _<mark style="color:orange;">Come back later</mark>_ |
-| Conclusion                                           | _<mark style="color:orange;">Come back later</mark>_ |
+| Section                                              | Status                                                    |
+| ---------------------------------------------------- | --------------------------------------------------------- |
+| [abstract.md](abstract.md "mention")                 | <mark style="color:green;">v0.11 UPDATED</mark>           |
+| [introduction.md](introduction.md "mention")         | <mark style="color:green;">v0.1 RELEASED</mark>           |
+| [background.md](background.md "mention")             | <mark style="color:green;">v0.1 RELEASED</mark>           |
+| [trip-methodology.md](trip-methodology.md "mention") | <mark style="color:green;">v0.1 RELEASED</mark>           |
+| [Broken link](broken-reference "mention")            | <mark style="color:yellow;">v0.1 DRAFT IN PROGRESS</mark> |
+| Ruleset                                              | _<mark style="color:orange;">Come back later</mark>_      |
+| Index                                                | _<mark style="color:orange;">Come back later</mark>_      |
+| Product                                              | _<mark style="color:orange;">Come back later</mark>_      |
+| Conclusion                                           | _<mark style="color:orange;">Come back later</mark>_      |
 
 ***
 
-{% hint style="info" %}
+{% hint style="success" %}
 Contribute to the Bitmap Theory Whitepaper by submitting pull request on [Github](https://github.com/Blockamoto/gitbook/tree/main/theory/bitmap-theory-whitepaper).
 {% endhint %}
