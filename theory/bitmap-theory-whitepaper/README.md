@@ -12,7 +12,7 @@ This is the draft pre-release rollout for live peer-review of Theory, and Rulese
 
 <figure><img src="../../.gitbook/assets/BitmapArchitectCover.png" alt=""><figcaption><p><em>Cover created by BitmapperGPT (alpha).</em></p></figcaption></figure>
 
-**Summary.** A spatial digital realm derived from the data and ruleset of Bitcoin amounts to a universal persistent virtual landscape which inherits the unique properties of Bitcoin. It takes advantage of data's unique ability to be parsed from multiple angels. This paper introduces core vital components previously missing from Bitmap Theory to fully enable on-chain reading and writing of Bitmap.
+**Summary.** A spatial digital realm derived from the data and ruleset of Bitcoin amounts to a universal persistent virtual landscape which inherits the unique properties of Bitcoin. It takes advantage of data's unique ability to be parsed from multiple angels. This paper introduces the core vital components of Bitmap Theory which enable on-chain reading and writing Bitmap data on Ordinals.
 
 {% hint style="info" %}
 Click through the links in **CONTENTS** to browse the Bitmap Theory living **whitepaper**.
