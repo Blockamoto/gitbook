@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🗺 bitmap 101](README.md)
+* [🗺️ bitmap 101](README.md)
 
 ## 📚 Theory
 
@@ -16,9 +16,9 @@
 
 ## 📜 RULESET
 
-* [👨🏫 theory ruleset](bitmap-theory-101/theory-ruleset.md)
+* [👨‍🏫 theory ruleset](bitmap-theory-101/theory-ruleset.md)
 * [📃 district ruleset](district-theory/district-ruleset.md)
-* [🗞 parcel ruleset](parcel-theory/parcel-ruleset.md)
+* [🗞️ parcel ruleset](parcel-theory/parcel-ruleset.md)
 
 ## 📑 INDEX
 
