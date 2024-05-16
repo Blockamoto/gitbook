@@ -31,7 +31,7 @@ That means, until a Parcel is inscribed, it is part of the District and if the D
 
 _`{block-height}.bitmap`_ : first to inscribe an existing block-height as bitmap is valid owner
 
-404.bitmap : this example is an inscription claim for the district representing block 404
+`404.bitmap` : this example is an inscription claim for the district representing block 404
 
 ![](<../.gitbook/assets/image (1).png>)&#x20;
 {% endhint %}
@@ -43,7 +43,7 @@ The Bitcoin Transactions within the Block are represented in Bitmap Theory as Pa
 {% hint style="info" %}
 ### INSCRIBING A PARCEL
 
-Valid parcels are the first child inscriptions maintaining provenance from the District parent.
+Parcels are the first valid child inscriptions maintaining provenance from the District parent.
 
 `{tx-index}.{block-height}.bitmap` : a parcel child inscription of a valid district
 
