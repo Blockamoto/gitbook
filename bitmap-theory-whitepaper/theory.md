@@ -29,7 +29,7 @@ That means, until a Parcel is inscribed, it is part of the District and if the D
 {% hint style="info" %}
 ### INSCRIBING A DISTRICT
 
-_`{block-height}.bitmap`_ : first to inscribe an existing block-height as bitmap is valid owner
+`{block-height}.bitmap` : first to inscribe an existing block-height as bitmap is valid owner
 
 `404.bitmap` : this example is an inscription claim for the district representing block 404
 
