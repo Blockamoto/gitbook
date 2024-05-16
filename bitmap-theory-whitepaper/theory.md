@@ -29,9 +29,28 @@ That means, until a Parcel is inscribed, it is part of the District and if the D
 {% hint style="info" %}
 ### INSCRIBING A DISTRICT
 
-_{block-height}_.bitmap : first to inscribe an existing block-height as bitmap is valid owner
+_`{block-height}.bitmap`_ : first to inscribe an existing block-height as bitmap is valid owner
 
 404.bitmap : this example is an inscription claim for the district representing block 404
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1).png>)&#x20;
 {% endhint %}
+
+## Parcel Theory
+
+The Bitcoin Transactions within the Block are represented in Bitmap Theory as Parcels within the Districts. By default, Parcels are part of the District and do not need to be inscribed separately. Doing so detaches and renders them individual.
+
+{% hint style="info" %}
+### INSCRIBING A PARCEL
+
+Valid parcels are the first child inscriptions maintaining provenance from the District parent.
+
+`{tx-index}.{block-height}.bitmap` : a parcel child inscription of a valid district
+
+`0.404.bitmap` : this example is the parcel claim representing transaction 0 of block 404
+
+![](<../.gitbook/assets/image (11).png>)
+{% endhint %}
+
+
+
