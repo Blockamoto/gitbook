@@ -17,7 +17,3 @@ Bitmap is a consensus standard that allows anybody to claim the geospatial digit
 Platforms can parse these inscriptions, and the related Bitcoin Block data, into the 3D realm and grant access to block owners, creating a new paradigm for open-source development.
 
 Bitmap Theory represents the mapping of Bitcoins data landscape to spatial analogues, bringing to light the base substrate of a persistent Metaverse. To own a piece of the Bitcoin Map known as Bitmap, one must own a valid District or Parcel land inscription.
-
-### Join the Revolution
-
-We invite you to join us in this exciting journey towards building a truly open Metaverse. Whether you're a builder, a visionary, or simply a Bitcoin enthusiast, there's a place for you in the Bitmap community. Get involved today and help shape the future of the Bitcoin Metaverse.
