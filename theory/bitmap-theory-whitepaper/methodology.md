@@ -1,8 +1,4 @@
----
-description: v0.1 FIRST ALPHA RELEASE
----
-
-# 📄 TRIP Methodology
+# 📄 Methodology
 
 <figure><img src="../../.gitbook/assets/TRIP Lab.png" alt=""><figcaption><p>The FOUR pillars of TRIP.</p></figcaption></figure>
 
@@ -47,22 +43,3 @@ Bitmap products utilize Bitcoin data served by indexers following rulesets based
 Bitmap is designed to allow for different visions for the Metaverse to emerge within the same ecosystem, and different layers of meaning to be applied. Building on Bitmap relies upon stable access to the data, as processed by the index. Developers who build on Bitmap benefit from the existing userbase, and each new product that is built upon Bitmap adds value to the existing userbase. This creates a naturally collaborative and competitive market for Bitmap products.
 
 It largely refers to Bitmap platforms that serve Bitcoin data parsed via Bitmap theory rulesets, but also the inscriptions which are product of the standard.
-
-{% hint style="success" %}
-This is the end of the **TRIP Methodology**. Read the [Broken link](broken-reference "mention") section next.
-{% endhint %}
-
-***
-
-{% hint style="warning" %}
-## READERS ALPHA: AVAILABLE SOON.
-
-To celebrate the calm and orderly rollout of Bitmap Theory, the living whitepaper, we fused some things together and gave birth to an actual **living whitepaper**! Made using the brc420 standard. Now you can finally live your dreams and step into the body of white paper.
-
-![](../../.gitbook/assets/WhitepaperHQ.gif)
-
-### STAY TUNED
-
-&#x20;_Created by_ [_@6elatin_](https://twitter.com/6elatin) _and_ [_@Blockamoto_](https://twitter.com/blockamoto)_._
-{% endhint %}
-

@@ -1,7 +1,3 @@
----
-description: v0.1 FIRST ALPHA RELEASE
----
-
 # 📄 Introduction
 
 <figure><img src="../../.gitbook/assets/BitmapTheoryImage.png" alt=""><figcaption><p>"Some inventions are more like discoveries" - <a href="https://twitter.com/blockamoto">Bitoshi Blockamoto</a></p></figcaption></figure>
@@ -15,22 +11,3 @@ Bitmap, on the other hand, proposes Bitcoin as the seed set of data which can be
 The Theory enables reading and writing using the Bitmap standard, and across these interpretations we can form a base-level of truth, terraforming this map as a unified experience, regardless of platform. Whilst platforms may interpret the data in unique ways, the data itself is shared across all platforms. This allows all platforms to be referencing the same shared landscape when building. This creates a system whereby anything built with Bitmap Theory inherits the longevity of Bitcoin, and the robustness of Ordinals Theory.
 
 This paper outlines the core theory & ruleset of Bitmap, and introduces new concepts proposed to satisfy both the reading and writing with Bitmap Theory at each level of resolution, and across all known dimensions of Bitcoin. Most notably, the ability to pin inscriptions to your Bitmap Districts and Parcels broadly, or to specific co-ordinates, will be proposed. This vital core component of Bitmap, which has been missing from the Standard up until this point, will enable the on-chain terraforming and building of the land. The ongoing provenance of changes made to the Bitmap landscape will be accessible through the ruleset defined in this paper, and maintained by Bitcoin.
-
-{% hint style="success" %}
-This is the end of the **Introduction**. Read the [background.md](background.md "mention")section next.
-{% endhint %}
-
-***
-
-{% hint style="warning" %}
-## READERS ALPHA: AVAILABLE SOON.
-
-To celebrate the calm and orderly rollout of Bitmap Theory, the living whitepaper, we fused some things together and gave birth to an actual **living whitepaper**! Made using the brc420 standard. Now you can finally live your dreams and step into the body of white paper.
-
-![](../../.gitbook/assets/WhitepaperHQ.gif)
-
-### STAY TUNED
-
-_Created by_ [_@6elatin_](https://twitter.com/6elatin) _and_ [_@Blockamoto_](https://twitter.com/blockamoto)_._
-{% endhint %}
-

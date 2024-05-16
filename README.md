@@ -12,11 +12,11 @@ Welcome to Bitmap, a transmutational Metaverse standard tapping into the Bitcoin
 
 ### What is Bitmap?
 
-Bitmap is a consensus standard that allows anybody to claim the geospatial digital real estate of a Bitcoin Block. This process is achieved by being the first to inscribe _`blocknumber`_`.bitmap` unto a Satoshi using the Ordinals Inscription standard. This process is equitable and decentralized, transmuting any Bitcoin Block into a part of the Metaverse at the cost of energy.
+Bitmap is a consensus standard that allows anybody to claim the geospatial digital real estate of a Bitcoin Block. This process is achieved by being the first to inscribe _`{block-height}.bitmap`_ unto a Satoshi using the Ordinals Inscription standard. This process is equitable and decentralized, transmuting any Bitcoin Block into a part of the Metaverse at the cost of energy.
 
 Platforms can parse these inscriptions, and the related Bitcoin Block data, into the 3D realm and grant access to block owners, creating a new paradigm for open-source development.
 
-Bitmap theory maps Bitcoins data landscape to spatial analogues, bringing to light the base substrate of a persistent Metaverse. To own a piece of the persistent Bitcoin Metaverse known as Bitmap, one must own a valid Bitmap land inscription.
+Bitmap Theory represents the mapping of Bitcoins data landscape to spatial analogues, bringing to light the base substrate of a persistent Metaverse. To own a piece of the Bitcoin Map known as Bitmap, one must own a valid District or Parcel land inscription.
 
 ### Join the Revolution
 

@@ -32,8 +32,8 @@ Click through the links in **CONTENTS** to browse the Bitmap Theory living **whi
 [background.md](background.md)
 {% endcontent-ref %}
 
-{% content-ref url="trip-methodology.md" %}
-[trip-methodology.md](trip-methodology.md)
+{% content-ref url="methodology.md" %}
+[methodology.md](methodology.md)
 {% endcontent-ref %}
 
 {% content-ref url="theory.md" %}
@@ -48,17 +48,17 @@ This Whitepaper is currently in the process of being written. Come back often fo
 
 **Progress:** ⬛⬛⬛⬛⬛⬜⬜⬜⬜ 55.55%
 
-| Section                                              | Status                                                    |
-| ---------------------------------------------------- | --------------------------------------------------------- |
-| [abstract.md](abstract.md "mention")                 | <mark style="color:green;">v0.11 UPDATED</mark>           |
-| [introduction.md](introduction.md "mention")         | <mark style="color:green;">v0.1 RELEASED</mark>           |
-| [background.md](background.md "mention")             | <mark style="color:green;">v0.1 RELEASED</mark>           |
-| [trip-methodology.md](trip-methodology.md "mention") | <mark style="color:green;">v0.1 RELEASED</mark>           |
-| [Broken link](broken-reference "mention")            | <mark style="color:yellow;">v0.1 DRAFT IN PROGRESS</mark> |
-| Ruleset                                              | _<mark style="color:orange;">Come back later</mark>_      |
-| Index                                                | _<mark style="color:orange;">Come back later</mark>_      |
-| Product                                              | _<mark style="color:orange;">Come back later</mark>_      |
-| Conclusion                                           | _<mark style="color:orange;">Come back later</mark>_      |
+| Section                                      | Status                                                    |
+| -------------------------------------------- | --------------------------------------------------------- |
+| [abstract.md](abstract.md "mention")         | <mark style="color:green;">v0.11 UPDATED</mark>           |
+| [introduction.md](introduction.md "mention") | <mark style="color:green;">v0.1 RELEASED</mark>           |
+| [background.md](background.md "mention")     | <mark style="color:green;">v0.1 RELEASED</mark>           |
+| [methodology.md](methodology.md "mention")   | <mark style="color:green;">v0.1 RELEASED</mark>           |
+| [Broken link](broken-reference "mention")    | <mark style="color:yellow;">v0.1 DRAFT IN PROGRESS</mark> |
+| Ruleset                                      | _<mark style="color:orange;">Come back later</mark>_      |
+| Index                                        | _<mark style="color:orange;">Come back later</mark>_      |
+| Product                                      | _<mark style="color:orange;">Come back later</mark>_      |
+| Conclusion                                   | _<mark style="color:orange;">Come back later</mark>_      |
 
 ***
 

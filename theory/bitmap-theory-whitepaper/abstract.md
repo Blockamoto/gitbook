@@ -1,7 +1,3 @@
----
-description: v0.11 FIRST ALPHA RELEASE (with amends)
----
-
 # 📄 Abstract
 
 <figure><img src="../../.gitbook/assets/BitmapArchitect.png" alt=""><figcaption></figcaption></figure>
