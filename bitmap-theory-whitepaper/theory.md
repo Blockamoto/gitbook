@@ -1,6 +1,6 @@
 # 📄 Theory
 
-<figure><img src="../../.gitbook/assets/BitmapLand.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/BitmapLand.png" alt=""><figcaption></figcaption></figure>
 
 ## Digital Matter Theory
 
@@ -33,25 +33,5 @@ _{block-height}_.bitmap : first to inscribe an existing block-height as bitmap i
 
 404.bitmap : this example is an inscription claim for the district representing block 404
 
-![](<../../.gitbook/assets/image (1).png>)
-{% endhint %}
-
-## Parcel Theory
-
-The Bitcoin Transactions within the Block are represented in Bitmap Theory as Parcels within the Districts. By default, Parcels are part of the District and do not need to be inscribed separately. Doing so detaches and renders them individual.
-
-{% hint style="info" %}
-### INSCRIBING A PARCEL
-
-_{tx-index}.{block-height}.bitmap_ : metaprotocol child inscription of valid district owner
-
-_0.404.bitmap_ : this example is the parcel claim representing transaction 0 of block 404
-
-#### PREREQUISITES
-
-Valid parcels are child inscriptions maintaining provenance from the District parent.
-
-Valid parcels must utilize the following Metaprotocol tag: _parcel.bitmap_
-
-![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (1).png>)
 {% endhint %}
