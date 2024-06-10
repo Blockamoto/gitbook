@@ -33,7 +33,7 @@ That means, until a Parcel is inscribed, it is part of the District and if the D
 
 `404.bitmap` : this example is an inscription claim for the district representing block 404
 
-![](<../.gitbook/assets/image (1).png>)&#x20;
+![](<../.gitbook/assets/image (1) (1).png>)&#x20;
 {% endhint %}
 
 ## Parcel Theory
