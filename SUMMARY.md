@@ -19,6 +19,7 @@
 
 * [🔸 bitlords.land](https://bitlords.land/)
 * [🍊 bitmap.community](https://bitmap.community/)
+* [◻️ Be The Bitmap (PFP)](https://ordinals.com/content/1ce23202fa6934e04f5434ab35d1cf8c51346b7241adfb42be70b5967593d93fi0)
 
 ## Marketplace
 
